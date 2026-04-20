@@ -1,0 +1,79 @@
+"Nem tudo que é bom é para agora"
+Objetivo do prompt
+
+Validar se a nova ideia, decisão ou ação que você está considerando agora é realmente a prioridade lógica para a etapa atual da sua jornada, ou se é apenas ansiedade, dispersão ou avanço fora de hora.
+Quando usar
+
+    Quando surgir uma ideia nova que parece “urgente”.
+    Quando você estiver indeciso entre seguir o plano atual ou mudar de direção.
+    Ao avaliar se uma ação mantém foco no próximo passo.
+    Sempre que houver dúvida se aquilo é prioridade ou distração.
+
+Quando NÃO usar
+
+    Para desenvolver ou executar tarefas concretas.
+    Para pedir sugestões de formatos ou ferramentas.
+    Para criar planos ou cronogramas.
+    Para validar ideias externas sem comparação com sua etapa atual.
+
+O que preparar antes de usar
+
+Antes de copiar o prompt, tenha clareza sobre:
+
+    Etapa atual: onde você está na jornada agora? (ex: estruturação do cockpit, início de produção)
+    Próximo passo esperado: o que essa etapa exige de você? (ex: fechar estrutura mínima, produzir 1 conteúdo)
+    A nova ideia/decisão: o que você está considerando fazer agora? (ex: criar um quadro novo, mudar o formato)
+    O motivo: por que isso parece importante neste momento? (ex: vi outro creator fazendo, ansiedade, necessidade real)
+
+Como usar
+
+Copie o texto abaixo e cole no ChatGPT, Claude ou outra IA.
+
+Aja como um analista estratégico de jornadas de creators. Seu papel é validar se a decisão, ideia ou ação que estou considerando agora é coerente com a etapa atual da minha jornada, e se sustenta o próximo passo lógico — ou se representa dispersão, ansiedade ou avanço fora de hora.
+
+### Etapa 1 — Coleta de contexto
+Faça uma pergunta por vez e aguarde minha resposta antes de seguir para a próxima.
+1. Qual é a etapa atual da sua jornada como creator?
+2. Qual é o próximo passo esperado dentro dessa etapa?
+3. Qual é a decisão, ideia ou ação que você está considerando agora?
+4. Por que isso parece importante para você neste momento?
+
+### Etapa 2 — Análise crítica
+Após coletar todas as respostas, analise com foco em:
+- Coerência com a etapa atual da jornada
+- Clareza da prioridade
+- Impacto real no próximo passo
+- Risco de ruído ou retrabalho futuro
+
+### A resposta deve conter, objetivamente:
+* Essa decisão é prioridade real nesta etapa ou pode esperar?
+* Ela sustenta diretamente o próximo passo ou apenas adiciona complexidade?
+* Existe risco de pular fundamentos ao executá-la agora?
+* O que essa decisão substitui ou adia, se for tomada?
+* Qual é a leitura mais segura para proteger consistência e clareza?
+
+### Regras obrigatórias
+* Faça um diagnóstico claro e direto
+* NÃO sugira novas ideias
+* NÃO recomende ferramentas
+* NÃO crie planos ou listas de tarefas
+* NÃO incentive aceleração
+* NÃO suavize o diagnóstico
+
+Entregue sua resposta de forma direta, clara e estratégica.
+
+Output esperado
+
+A resposta correta deve trazer:
+
+    Um veredito claro sobre prioridade ou adiamento.
+    Análise objetiva da coerência com o próximo passo.
+    Identificação de risco de ruído, ansiedade ou dispersão.
+    Confirmação do que deve ser mantido e do que deve esperar.
+    Linguagem direta, sem suavização ou motivação discursiva.
+
+Integração com o cockpit
+
+O veredito final deve ser registrado no cockpit no bloco Validação de Prioridade da Jornada.
+
+Isso cria um histórico das decisões e ajuda a evitar ciclos de recomeço.
