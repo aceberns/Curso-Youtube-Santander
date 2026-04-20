@@ -1,0 +1,83 @@
+Primeiro Prompt
+
+"Sistema que começa pesado não termina"
+Objetivo do prompt
+
+Validar se o seu ritmo de execução e a estrutura inicial escolhida são realmente sustentáveis para a sua rotina atual, protegendo sua jornada contra o cansaço e o abandono precoce.
+Quando usar
+
+    Antes de iniciar a produção de conteúdo.
+    Após definir um ritmo inicial de execução (tempo, frequência ou blocos).
+    Quando estiver montando a estrutura inicial do cockpit.
+    Quando sentir que o projeto pode estar pesado demais para o momento.
+
+Quando NÃO usar
+
+    Para decidir temas ou formatos.
+    Para montar calendário.
+    Durante produção de conteúdo.
+    Para pedir validação externa.
+
+O que preparar antes de usar
+
+Este prompt funciona como um "conselheiro interativo". A IA fará uma pergunta por vez. Tenha as respostas claras na sua cabeça ou rascunhadas no cockpit:
+
+    Tempo real disponível por semana (ex: 3 blocos de 45min, 2 noites).
+    Padrão de execução pretendido (ex: produção em lote, avanço lento e contínuo).
+    Estrutura inicial já decidida (ex: cockpit simples, banco de ideias).
+    Sentimento atual (ex: empolgado, travado, ansioso, pressionado).
+
+Como usar
+
+Copie o texto abaixo e cole no ChatGPT, Claude ou outra IA.
+
+Aja como um analista estratégico de sistemas de criação e jornada de creators.
+Seu papel é avaliar se o ritmo, a estrutura inicial e as decisões que tomei até agora são sustentáveis no meu contexto real atual. Essa avaliação deve ser feita sem sugerir aceleração, sem comparação com outros creators e sem criar novas tarefas.
+---
+🧭 Instruções para sua condução da conversa:
+Você fará as perguntas abaixo uma de cada vez, e só deve fazer a próxima após eu responder.
+Após registrar todas as respostas, você deve apresentar uma análise final completa com base nas informações fornecidas.
+---
+📥 Perguntas (faça uma por vez):
+1. Qual é o tempo real disponível por semana para executar esse projeto?
+2. Qual é o padrão de execução que você pretende adotar? (Exemplo: dias fixos, blocos intensivos, execução leve e contínuo etc.)
+3. O que você já decidiu estruturar agora? (Exemplo: formatos, canais, frequência, etapas da jornada etc.)
+4. Como você está se sentindo neste momento em relação a tudo isso?
+IMPORTANTE: Armazene internamente as respostas. Não faça nenhum tipo de análise antes de todas as perguntas serem respondidas.
+---
+🎯 Após coletar todas as respostas, entregue a análise respondendo objetivamente:
+* O ritmo definido é sustentável no contexto descrito?
+* Há excesso de ambição, estrutura ou expectativa para este momento?
+* Onde existe fricção invisível que pode gerar travamento futuro?
+* O que está bem decidido e deve ser preservado?
+* O que precisa ser simplificado agora para proteger a constância?
+---
+⚠️ Regras obrigatórias:
+* Não sugerir aumento de carga
+* Não recomendar ferramentas
+* Não criar planos ou cronogramas
+* Não comparar com padrões externos
+* Não motivar, nem suavizar diagnóstico
+---
+📤 Entregue a resposta em blocos claros, com leitura direta e honesta.
+
+Output esperado
+
+A resposta correta deve trazer:
+
+    Uma leitura clara sobre sustentabilidade do ritmo.
+    Alertas objetivos de excesso, ruído ou fragilidade estrutural.
+    Confirmação do que está bem decidido.
+    Recomendações de simplificação, não de adição.
+    Linguagem direta, sem entusiasmo artificial.
+
+Se a resposta trouxer: “você pode fazer mais”, “tente postar X vezes”, “use tal ferramenta”, o prompt foi mal aplicado.
+Integração com o cockpit
+
+O diagnóstico gerado por este prompt deve ser registrado no cockpit em um bloco simples chamado: Leitura de Sustentabilidade Inicial.
+
+Esse bloco servirá como referência quando:
+
+    a rotina pesar
+    a comparação aparecer
+    a vontade de mudar tudo surgir
